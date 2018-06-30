@@ -9,7 +9,7 @@ Go ahead and fork, make it your own :)
 
 You can either add the style in between resources tags like this: 
 ``` XAML
-<Grid.Resources> <!-- Put Style Here -->  </Grid.Resources> 
+<Grid.Resources> <!-- Put Style Here --> </Grid.Resources> 
 ```
 
 Or you can add it directly into the Style tags of a button (In order for this to work, you need to remove the x:Key attribute) :
