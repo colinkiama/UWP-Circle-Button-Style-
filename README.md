@@ -7,14 +7,18 @@ Go ahead and fork, make it your own :)
 
 <h2>How to use this style</h2>
 
-You can either add the style in between resources tags like this: <Grid.Resources> (Put Style here) </Grid.Resources>
+You can either add the style in between resources tags like this: 
+``` XAML
+<Grid.Resources> <!-- Put Style Here -->  </Grid.Resources> 
+```
 
 Or you can add it directly into the Style tags of a button (In order for this to work, you need to remove the x:Key attribute) :
+``` xaml
  <Button>
   <Button.Style>
-   (Put Style here)
+   <!-- Put Style Here --> 
   </Button.Style>
  </Button>
+ ```
  
- 
- <b>Note</b>: Whenever you see "(put style here)", literally copy and paste the style from the xaml file in there.
+ <b>Note</b>: Whenever you see `<!-- Put Style Here -->`, literally copy and paste the style from the xaml file in that position.
