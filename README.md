@@ -3,7 +3,7 @@ A perfect circlular button which has a round highlight while hovering over it to
 
 ![Image Preview](circleButtonGIF.gif "Preview")
 
-Go ahead and fork, make it your own :)
+Go ahead and fork it. Make it your own ;)
 
 <h2>How to use this style</h2>
 
